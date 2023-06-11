@@ -1,2 +1,3 @@
 log.txt
-/dir 2
+/dir 2 # use / for ignore folder
+*.txt #means ignore all files having extension .txt
